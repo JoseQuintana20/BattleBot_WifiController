@@ -166,7 +166,7 @@ If you can't connect to the access point, verify that the ESP32 is properly powe
 
 ### License
 
-This project is distributed under the MIT License. See the [LICENSE] file for more details.
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### Credits
 
